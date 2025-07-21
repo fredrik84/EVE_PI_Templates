@@ -35,3 +35,5 @@ Total               24 157895
 Hours when full	164
 Days	6.9
 ```
+
+This setup produces 0.5 P4 per planet per hour
