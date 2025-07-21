@@ -36,4 +36,8 @@ Hours when full	164
 Days	6.9
 ```
 
-This setup produces 0.5 P4 per planet per hour
+This setup produces 0.5 P4 per planet per hour.
+
+Mathing is 10 factories producing either Wetwares or Self-Harm Cores will produce 12 per day.
+10*12 equals 120 P4 per day. At current price when writing that is 2 million ISK per P4.
+This setup should be worth about 240 mil per day with 10 factories, which equals about 7.2b per month.
